@@ -1,4 +1,4 @@
-# Python-ML Beginners-Cirriculum
+# Python-ML Beginners-Curriculum
 
 
 
