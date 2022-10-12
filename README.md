@@ -20,7 +20,8 @@ This learning path is intended for everyone who wants to learn Python-Basics and
         <li><a href="#supervised-learning">Supervised Learning</a></li>
         <li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
       </ul>
-    </li>   
+    </li>
+    <li><a href="#Beginner-Project">Beginner Project</a></li>
   </ol>
 </details>
 
@@ -89,7 +90,11 @@ This learning path is intended for everyone who wants to learn Python-Basics and
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-## Beginner Project---
+## Beginner Project
+1. Sales Prediction
+2. Diabetes Detection
+
+<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
 
 
