@@ -21,7 +21,7 @@ This learning path is intended for everyone who wants to learn Python-Basics and
         <li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
       </ul>
     </li>
-    <li><a href="#Beginner-Project">Beginner Project <b>(2-3 Hours)</b>)</a></li>
+    <li><a href="#Beginner-Project">Beginner Project <b>(2-3 Hours)</b></a></li>
   </ol>
 </details>
 
