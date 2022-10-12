@@ -89,7 +89,7 @@ This learning path is intended for everyone who wants to learn Python-Basics and
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-## Biginner Project---
+## Beginner Project---
 
 
 
