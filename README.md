@@ -13,15 +13,15 @@ This learning path is intended for everyone who wants to learn Python-Basics and
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Basic-Python">Basic Python </a></li> (6 hours)
+    <li><a href="#Basic-Python">Basic Python <b>(6 Hours)</b></a></li> 
     <li>
-      <a href="#Basic-machine-learning">Machine Learning (6 hours)</a>
+      <a href="#Basic-machine-learning">Machine Learning <b>(6 Hours)</b></a>
       <ul>
         <li><a href="#supervised-learning">Supervised Learning</a></li>
         <li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
       </ul>
     </li>
-    <li><a href="#Beginner-Project">Beginner Project (2-3 hours)</a></li>
+    <li><a href="#Beginner-Project">Beginner Project <b>(2-3 Hours)</b>)</a></li>
   </ol>
 </details>
 
