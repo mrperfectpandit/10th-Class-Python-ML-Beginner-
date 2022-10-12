@@ -13,7 +13,7 @@ This learning path is intended for everyone who wants to learn Python-Basics and
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Basic-Python">Basic Python  (6 hours)</a></li>
+    <li><a href="#Basic-Python">Basic Python </a></li> (6 hours)
     <li>
       <a href="#Basic-machine-learning">Machine Learning (6 hours)</a>
       <ul>
