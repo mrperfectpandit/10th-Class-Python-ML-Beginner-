@@ -6,7 +6,7 @@
 
 A guide to learn Biginner level python and ML:
 
-A <B>15 Hours Bootcamp</b> learning path is intended for everyone who wants to learn Python-Basics and to know about the ML.
+<B>15 Hours Bootcamp</b> learning path is intended for everyone who wants to learn Python-Basics and to know about the ML.
 
 ## Table of Contents
 
